@@ -1,1 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 
+.completed{
+    text-decoration: line-through;
+}
+h4{
+    color: blueviolet;
+}
+.Light{
+    background-color: black;
+    color:white;
+    padding: 30px;
+}
+.Dark{
+    padding: 30px;
+}
